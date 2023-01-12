@@ -30,6 +30,10 @@ whether the snake is venomous or not.
 
 (Coming Soon)
 
+## LogBook
+
+I also maintain a logbook that I maintain for this project: `logbook.md`
+
 ## Helpers
 
 I am also writing as small library in parallel of helper functions that
