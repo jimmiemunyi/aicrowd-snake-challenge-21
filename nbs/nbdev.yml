@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "the-snake-project"
+  site-url: "https://jimmiemunyi.github.io/the-snake-project"
+  description: "The Snake Project (Coming Soon)"
+  repo-branch: main
+  repo-url: "https://github.com/jimmiemunyi/the-snake-project"
